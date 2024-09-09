@@ -25,7 +25,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SuhailTechInfo/Suhail-Md
+      git clone https://github.com/uwemdev/all-in-one-whatsapp-bot
       cd Suhail-Md
       yarn install --network-concurrency 1
       ```
@@ -40,7 +40,7 @@
       ```
       OWNER_NUMBER="923184474176"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      THUMB_IMAGE = "https://i.ibb.co/w6ss4st/photo-2024-04-19-10-02-19.jpg"
       OWNER_NAME = "Suhail"
       PREFIX = .
       WARN_COUNT = 3
@@ -60,7 +60,7 @@
  
 <h2 align="center">  NOTICE </h2>
 ---
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *UwemDevBot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use this bot at your own risk by keeping this warning in mind.*
  
