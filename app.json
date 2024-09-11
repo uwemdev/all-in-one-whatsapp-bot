@@ -10,7 +10,7 @@
   "__stack":"container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",    
+      "description": "🅰🅽🅾🅽🆈🅼🅾🆄🆂",    
       "value": "★彡UwemDev彡★",
       "required" :true
     },   
@@ -27,14 +27,14 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": "🅰🅽🅾🅽🆈🅼🅾🆄🆂 The bot",
       "required" :false,    
       "value": "UwemDev "
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Nigeria,Akwaibom,Uyo."
+      "value": "Guinea,Conakry."
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -67,7 +67,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348110572387"
+      "value": "224669094865"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -99,7 +99,7 @@
       "required": false 
     },
     "PACK_AUTHER": {
-      "description": "Put Sticker Author_Name.",
+      "description": "🅰🅽🅾🅽🆈🅼🅾🆄🆂.",
       "value": "★彡UwemDev彡★",
       "required": false 
     }
