@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/uwemdev/all-in-one-whatsa
 global.gurl  =process.env.GURL  || "https://api.whatsapp.com/send?phone=224669094865&text=Hi%20Uwem%2C";
 global.website=process.env.GURL || "https://uwemdev.com" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://uwemdev.com/storage/home/about-file-1724092734.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "Anonymous" 
+global.caption = process.env.CAPTION || global.caption || "➳ᴹᴿメ 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒亗" 
 
 
 global.devs = "224669094865" // Developer Contact
@@ -69,15 +69,15 @@ module.exports = {
 
   menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
-  HANDLERS: process.env.PREFIX  || ".",
+  HANDLERS: process.env.PREFIX  || "+",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.0.1-developement-x",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "🅰🅽🅾🅽🆈🅼🅾🆄🆂",
-  packname: process.env.PACK_NAME || "Sticker by 🅰🅽🅾🅽🆈🅼🅾🆄🆂",
-  botname : process.env.BOT_NAME  || "🅰🅽🅾🅽🆈🅼🅾🆄🆂 the bot",
-  ownername:process.env.OWNER_NAME|| 🅰🅽🅾🅽🆈🅼🅾🆄🆂"",
+  author : process.env.PACK_AUTHER|| "➳ᴹᴿメ 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒亗",
+  packname: process.env.PACK_NAME || "Sticker by 亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂",
+  botname : process.env.BOT_NAME  || "➳ᴹᴿメ 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒亗",
+  ownername:process.env.OWNER_NAME|| 亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂"",
 
 
   errorChat : process.env.ERROR_CHAT || "",
