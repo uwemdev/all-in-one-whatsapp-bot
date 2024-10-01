@@ -30,7 +30,7 @@ Deploy on
 Sample RAW Editor for Railway Deploy
 
 ## 
-
+```bash
 AUTO_READ_STATUS="true"
 BOT_NAME="uwemdev"
 DISABLE_GROUPS="false"
@@ -40,11 +40,12 @@ OWNER_NAME="uwemdev"
 OWNER_NUMBER="2348110572387"
 PACK_AUTHER="uwemdev"
 PACK_NAME="uwemdev"
-SESSION_ID="SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+SESSION_ID="SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 WAPRESENCE="available"
 WORKTYPE="private"
+'''
 
-***Replace 'SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' with your scanned QR sent to your whatsapp number***
+***Replace 'SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' with your scanned QR sent to your whatsapp number***
 
 More Variables will be updated.
 
