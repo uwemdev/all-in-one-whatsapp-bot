@@ -31,18 +31,18 @@ Sample RAW Editor for Railway Deploy
 
 ## 
 
-  AUTO_READ_STATUS="true"
-  BOT_NAME="uwemdev"
-  DISABLE_GROUPS="false"
-  DISABLE_PM="false"
-  MONGODB_URI="null"
-  OWNER_NAME="uwemdev"
-  OWNER_NUMBER="2348110572387"
-  PACK_AUTHER="uwemdev"
-  PACK_NAME="uwemdev"
-  SESSION_ID="SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-  WAPRESENCE="available"
-  WORKTYPE="private"
+AUTO_READ_STATUS="true"
+BOT_NAME="uwemdev"
+DISABLE_GROUPS="false"
+DISABLE_PM="false"
+MONGODB_URI="null"
+OWNER_NAME="uwemdev"
+OWNER_NUMBER="2348110572387"
+PACK_AUTHER="uwemdev"
+PACK_NAME="uwemdev"
+SESSION_ID="SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+WAPRESENCE="available"
+WORKTYPE="private"
 
 ***Replace 'SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' with your scanned QR sent to your whatsapp number***
 
