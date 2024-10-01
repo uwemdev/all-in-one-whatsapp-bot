@@ -12,20 +12,39 @@
  
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/scan)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/uwemdev/all-in-one-whatsapp-bot/fork)***
-   
-5.  ***Deploy on [`HEROKU`](https://suhail-web.vercel.app//deploy?platform=heroku)***
-6.  ***Deploy on [`Replit`](https://suhail-web.vercel.app/deploy?platform=replit)***  
-7.  ***Deploy on [`Koyeb`](https://suhail-web.vercel.app/deploy?platform=koyeb)***
-8.  ***Deploy on [`Glitch`](https://suhail-web.vercel.app/deploy?platform=glitch)***
-9.  ***Deploy on [`CodeSpace`](https://suhail-web.vercel.app/deploy?platform=codespace)***
-10. ***Deploy on [`Render`](https://suhail-web.vercel.app/deploy?platform=render)***
-11. ***Deploy on [`Railway`](https://suhail-web.vercel.app/deploy?platform=railway)***
+
+Deploy on
+  Heroku
+  Replit
+  Koyeb
+  Glitch
+  CodeSpace
+  Render
+  Railway   
+
 ##
 
+    Sample RAW Editor for Railway Deploy
 
+AUTO_READ_STATUS="true"
+BOT_NAME="uwemdev"
+DISABLE_GROUPS="false"
+DISABLE_PM="false"
+MONGODB_URI="null"
+OWNER_NAME="uwemdev"
+OWNER_NUMBER="2348110572387"
+PACK_AUTHER="uwemdev"
+PACK_NAME="uwemdev"
+SESSION_ID="SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+WAPRESENCE="available"
+WORKTYPE="private"
+
+***Replace 'SUHAIL_14_01_09_30_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' with your scanned QR sent to your whatsapp number***
+
+More Variables will be updated.
 
 ---
 
